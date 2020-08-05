@@ -1,0 +1,21 @@
+{
+    "name": "Killa",
+    "prefix": "killa",
+    "altprefix": "!k",
+    "version": "v4",
+
+    "botid": "673871058708725790",
+    "website": "https://www.adidas.com/",
+    "serverlink": "",
+    "invitelink": "https://discordapp.com/oauth2/authorize?client_id=673871058708725790&scope=bot&permissions=8",
+    "votelink": "https://top.gg/bot/649604306596528138/vote",
+
+    "red": "#FF0000",
+    "orange": "#E36C22",
+    "yellow": "#FFFF00",
+    "green": "#00FF00",
+    "blue": "#00FFEE",
+    "white": "#FFFFFE",
+    "black": "#000001",
+    "defaultcolor": "#74FFFF"
+}

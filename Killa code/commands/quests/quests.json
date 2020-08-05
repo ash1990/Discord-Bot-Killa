@@ -1,0 +1,1320 @@
+{
+    "tarkovitems": [
+        {
+            "Person": "Prapor",
+            "Quest": "Debut",
+            "Type": "Elimination",
+            "Objective": "Kill 5 Scavs at Customs\r\nHand over 2 MP-133 pump-action shotguns",
+            "Reward": "+600 EXP\r\nPrapor Rep +0.08\r\n5,000 Roubles\r\nPM 9x18PM pistol\r\n3x 90-93 9x18PM Magazine, for 8 PM rounds\r\nUnlocks purchase of Kalashnikov AKS-74U 5.45x39 at LL1"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Checking",
+            "Type": "PickUp",
+            "Objective": "Find the bronze pocket watch\r\n(Optional) Find the key to the tank truck\r\nHand over the bronze pocket watch to Prapor",
+            "Reward": "+800 EXP\r\nPrapor Rep +0.05\r\n4,000 Roubles\r\nTT pistol 7.62x25 TT\r\n3x TT-105 7.62x25 TT Magazine"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Shootout picnic",
+            "Type": "Elimination",
+            "Objective": "Neutralize 15 Scavs on Woods",
+            "Reward": "+2,000 EXP\r\nPrapor Rep +0.1\r\n6,000 Roubles\r\nKalashnikov AKS-74U 5.45x39\r\n3x 6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Delivery from the past",
+            "Type": "PickUp",
+            "Objective": "Find a secure case in the Tarcone Director's Office at the Customs terminal\r\nLeave the case in the Factory swing room, on 2nd floor of shop 3\r\nSurvive and exit Factory location",
+            "Reward": "+4,100 EXP\r\nPrapor Rep +0.11\r\n12,000 Roubles\r\nSaiga 12ga ver. 10 12/76 shotgun\r\n3x Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons\r\nUnlocks purchase of 5.45x39 mm PS at LL1"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "BP depot",
+            "Type": "Discover",
+            "Objective": "Mark fuel tank №1 with beacon on Customs\r\nMark fuel tank №2 with beacon on Customs\r\nMark fuel tank №3 with beacon on Customs\r\nMark fuel tank №4 with beacon on Customs\r\nSurvive and leave the area",
+            "Reward": "+2,900 EXP\r\nPrapor Rep +0.08\r\nJaeger Rep -0.01\r\n8,000 Roubles\r\n3x RGD-5 hand grenade"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Bad rep evidence\t",
+            "Type": "PickUp",
+            "Objective": "\t\r\nFind secure folder 0031 in a bunkhouse on Customs\r\n(Optional) Gain access to the closed room in the Factory offices\r\n(Optional) Find the bunkhouse key\r\nHand over secure folder 0031 to Prapor\r\nSurvive and exit Customs location",
+            "Reward": "+4,200 EXP\r\nPrapor Rep +0.1\r\n16,000 Roubles\r\nPP-9 Klin 9x18PMM SMG\r\n3x Standard 9x18PM 30-round magazine for PP-91\r\nUnlocks purchase of Zenit-Belomo PSO 1M2-1 4x24 scope at LL2"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Ice cream cones",
+            "Type": "PickUp",
+            "Objective": "Find 6 60-round mags for AK\r\n(Optional) Find the key from the bunker in the Terragroup employee room\r\n(Optional) Locate the right bunker in the Woods\r\nHand over 6 60 round mags for AK to Prapor",
+            "Reward": "+5,400 EXP\r\nPrapor Rep +0.08\r\n17,000 Roubles\r\n3x 60-round 6L31 5.45x39 magazine for AK-74 and compatibles\r\n100x 5.45x39 mm BP\r\nUnlocks barter for 60-round 6L31 5.45x39 magazine for AK-74 and compatibles at LL2"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Postman Pat - Part 1",
+            "Type": "PickUp\t",
+            "Objective": "Find a letter on a messenger in the Factory\r\nSurvive and exit Factory location\r\nHand over the letter to Therapist",
+            "Reward": "+6,000 EXP\r\nPrapor Rep +0.08\r\n19,000 Roubles\r\nFlyye MBSS Backpack"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Shaking up teller",
+            "Type": "PickUp",
+            "Objective": "Find something valuable in the dorm room 203\r\n(Optional) Gain access to room 214\r\nHand over the item to Prapor",
+            "Reward": "+6,100 EXP\r\nPrapor Rep +0.08\r\nJaeger Rep -0.01\r\n22,000 Roubles\r\nUnlocks purchase of PBS-4 5.45x39 Silencer at LL3\r\nUnlocks purchase of Hexagon 12K sound suppressor at LL2"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 15 Scavs at the Shoreline using AKM series weapon",
+            "Reward": "+10,800 EXP\r\nPrapor Rep +0.08\r\n40,000 Roubles\r\n6B43 Zabralo-Sh 6A Armor\r\nUnlocks purchase of SV-98 bolt-action sniper rifle at LL3"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 2",
+            "Type": "Elimination",
+            "Objective": "Kill 12 Scavs at the Shoreline using a suppressed weapon\r\nFind in raid 10 Lower half-masks\r\nHand masks over to Prapor",
+            "Reward": "+13,900 EXP\r\nPrapor Rep +0.1\r\n70,000 Roubles"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 3",
+            "Type": "Elimination",
+            "Objective": "Kill 25 Scavs on Customs using AKS-74U",
+            "Reward": "+12,400 EXP\r\nPrapor Rep +0.08\r\nSkier Rep +0.05\r\n2,500 Dollars\r\nDVL-10 Saboteur sniper rifle"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 4\t",
+            "Type": "Elimination",
+            "Objective": "Kill 10 Scavs in Woods using 12 gauge shotguns\r\nKill 10 PMCs on Shoreline while wearing a balaclava and a scav vest.\r\nFind 10 Bars A-2607 knives\r\nHandover knives to Prapor",
+            "Reward": "+19,000 EXP\r\nPrapor Rep +0.12\r\nJaeger Rep -0.01\r\nColt M4A1 5.56x45 Assault Rifle\r\n100,000 Roubles\r\nUnlocks purchase of 5.45x39 mm BT at LL3"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 5",
+            "Type": "PickUp",
+            "Objective": "Find 3 AK-74N\r\nHandover AK-74N rifles to Prapor\r\nFind 3 M4A1 assault rifles\r\nHandover M4A1 rifles to Prapor\r\nFind 5 PM pistols\r\nHandover pistols to Prapor\r\nKill 10 PMC operatives. You must be wearing a PACA vest and 6b47 helmet",
+            "Reward": "+19,300 EXP\r\nPrapor Rep +0.12\r\n5,000 Dollars\r\nPistol case\r\nDocuments case\r\nUnlocks purchase of 7.62x39 mm BP at LL3"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "The Punisher - Part 6",
+            "Type": "Elimination",
+            "Objective": "Kill 15 PMC operators. You must use SVD\r\nBring 10 PMC USEC dogtags\r\nHand over 10 PMC USEC dogtags\r\nBring 10 PMC BEAR dogtags\r\nHand over 10 PMC BEAR dogtags",
+            "Reward": "+20,600 EXP\r\nPrapor Rep +0.12\r\nSkier Rep +0.06\r\nTherapist Rep +0.15\r\n250,000 Roubles\r\nSecure container Epsilon"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Polikhim hobo",
+            "Type": "Elimination",
+            "Objective": "Kill 25 Scavs on Customs",
+            "Reward": "+7,000 EXP\r\nPrapor Rep +0.1\r\n17,000 Roubles\r\n4x F-1 Hand grenade"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Big customer",
+            "Type": "Completion",
+            "Objective": "\t\r\nFind a transport with chemicals\r\nMark the chemical transport with a beacon\r\nSurvive and extract Customs",
+            "Reward": "+8,200 EXP\r\nPrapor Rep +0.1\r\nJaeger Rep -0.01\r\n200,000 Roubles\r\nPACA Soft Armor"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "No offence",
+            "Type": "PickUp",
+            "Objective": "Find 10 M67 grenades\r\nHandover grenades to Prapor",
+            "Reward": "Prapor Rep +0.4"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Grenadier",
+            "Type": "Elimination",
+            "Objective": "Kill 12 PMC's with grenades",
+            "Reward": "+21,300 EXP\r\n50,000 Roubles\r\n7x F-1 Hand grenade\r\n240x 5.45x39 mm BT\r\nUnlocks barter for 8 pcs pack of 9x39 7N12 BP ammo at LL4"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Perfect mediator",
+            "Type": "Skill",
+            "Objective": "Reach 4-th level of standing with Ragman\r\nReach 4-th level of standing with Skier\r\nReach 4-th level of standing with Mechanic\r\nReach 4-th level of standing with Peacekeeper\r\nReach 4-th level of standing with Prapor\r\nReach 4-th level of standing with Therapist",
+            "Reward": "+17,200 EXP\r\nPrapor Rep +0.9\r\n55,000 Roubles\r\nT H I C C Weapon case"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Insomnia",
+            "Type": "Elimination",
+            "Objective": "Kill 30 PMC's during nighttime (23 to 04)",
+            "Reward": "+18,500 EXP\r\n85,000 Roubles\r\n3x PNV-10T Night Vision\r\n3x 2P Klesch flashlight + laser designator"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Test drive - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 20 PMC's using an M1A with a Hybrid 46 silencer and a Trijicon REAP-IR thermal scope",
+            "Reward": "+31,000 EXP\r\nPrapor Rep +0.12\r\n300,000 Roubles\r\n2x RPK-16 5.45x39 light machine gun\r\n6x 95-round 5.45x39 magazine for RPK-16 and compatibles\r\n5x Golden neck chain"
+        },
+        {
+            "Person": "Prapor",
+            "Quest": "Regulated materials",
+            "Type": "PickUp",
+            "Objective": "Find in raid military battery\r\nHandover military battery\r\nFind in raid 10 30-mil. shells for BMP cannon\r\nHandover 10 30-mil. shells for BMP cannon",
+            "Reward": "150,000 Roubles\r\nUnlocks the trade of ASh-12 12.7x55 assault rifle at LL4"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Shortage",
+            "Type": "PickUp",
+            "Objective": "Find 5 Salewa kits\r\nHand over 5 Salewa kits to Therapist",
+            "Reward": "+500 EXP\r\nTherapist Rep +0.07\r\n10,000 Roubles\r\n4x Analgin painkillers\r\n4x AI-2 medikit\r\n4x Immobilizing splint"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Sanitary Standards - Part 1",
+            "Type": "PickUp",
+            "Objective": "Find in raid gas analyzer\r\n(Optional) Get access to the pumping station at the Factory\r\nHand over the gas analyzer to Therapist",
+            "Reward": "+2,200 EXP\r\nTherapist Rep +0.09\r\n14,000 Roubles\r\n2x Car first aid kit\r\nUnlocks purchase of Car first aid kit at LL1"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Sanitary Standards - Part 2",
+            "Type": "Completion",
+            "Objective": "Hand over the Gas analyzers to Therapist",
+            "Reward": "+4,500 EXP\r\nTherapist Rep +0.09\r\n18,000 Roubles"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Operation Aquarius - Part 1",
+            "Type": "PickUp",
+            "Objective": "Find hidden water in the dorm\r\nSurvive and extract Customs",
+            "Reward": "+3,400 EXP\r\nTherapist Rep +0.09\r\nSkier Rep -0.08\r\n14,000 Roubles\r\n8x 0.6L water bottle"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Operation Aquarius - Part 2",
+            "Type": "Elimination",
+            "Objective": "Eliminate 15 Scavs on Customs",
+            "Reward": "+3,400 EXP\r\nTherapist Rep +0.09\r\nSkier Rep -0.08\r\n15,000 Roubles\r\n3x Army bandage\r\nUnlocks purchase of Army bandage at LL2"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Painkiller",
+            "Type": "PickUp",
+            "Objective": "Find in raid 5 morphine syringes\r\nHand the syringes over to Therapist",
+            "Reward": "+4,600 EXP\r\nTherapist Rep +0.09\r\n17,000 Roubles\r\n10x Analgin painkillers"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Pharmacist",
+            "Type": "PickUp",
+            "Objective": "Find a case with the device\r\n(Optional) Find the paramedic's car\r\n(Optional) Get into dorm room 114\r\nHand over the case to Therapist",
+            "Reward": "+5,900 EXP\r\nTherapist Rep +0.09\r\n25,000 Roubles\r\n4x IFAK personal tactical first aid kit\r\nUnlocks barter for 6B47 Helmet with cover (flora digital) at Ragman LL2"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Supply plans",
+            "Type": "PickUp",
+            "Objective": "Find the secure folder on the sawmill\r\nSurvive and exit Woods location\r\nHand over the folder to Therapist",
+            "Reward": "+7,700 EXP\r\nTherapist Rep +0.09\r\n70,000 Roubles"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "General wares",
+            "Type": "Completion",
+            "Objective": "Find in raid 15 cans of meat\r\nHand the cans over to Therapist",
+            "Reward": "+5,000 EXP\r\nTherapist Rep +0.07\r\n4x Can of pacific saury\r\n2x Iskra lunch box"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Car repair",
+            "Type": "PickUp",
+            "Objective": "Find in raid 4 car batteries\r\nFind in raid 8 spark plugs\r\nHand car batteries over to Therapist\r\nHand spark plugs over to Therapist",
+            "Reward": "+7,600 EXP\r\nTherapist Rep +0.08\r\n1,500 Dollars\r\n2x Grizzly First Aid Kit"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Health Care Privacy - Part 1",
+            "Type": "Discover",
+            "Objective": "Mark 1st ambulance\r\nMark 2nd ambulance\r\nMark 3rd ambulance\r\nSurvive and exit the location",
+            "Reward": "+6,500 EXP\r\nTherapist Rep +0.07\r\n22,000 Roubles\r\n2x IFAK personal tactical first aid kit\r\nUnlocks purchase of IFAK personal tactical first aid kit at LL3"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Health Care Privacy - Part 2",
+            "Type": "Discover",
+            "Objective": "Gather info on the fate of the Terragroup research\r\nHand over info on the fate of the Terragroup research\r\nSurvive and exit the location",
+            "Reward": "+8,600 EXP\r\nTherapist Rep +0.09\r\n24,000 Roubles\r\n4x Salewa FIRST AID KIT"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Health Care Privacy - Part 3",
+            "Type": "Discover",
+            "Objective": "Find the car that belonged to the head of the Medical Service\r\nPick up the blood sample\r\nHand over the blood sample\r\nSurvive and exit the location",
+            "Reward": "+9,400 EXP\r\nTherapist Rep +0.09\r\n26,000 Roubles\r\n2x Morphine injector\r\nUnlocks purchase of Morphine injector at LL4"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Health Care Privacy - Part 4",
+            "Type": "Skill",
+            "Objective": "Increase Health skill level to 4",
+            "Reward": "+10,200 EXP\r\nTherapist Rep +0.09\r\n29,000 Roubles\r\n2x Grizzly First Aid Kit"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Health Care Privacy - Part 5",
+            "Type": "Multi",
+            "Objective": "Locate the drop spot in the nighttime in Factory\r\nObtain 3 packs of gunpowder and leave them in the designated spot",
+            "Reward": "+13,300 EXP\r\nTherapist Rep +0.1\r\n35,000 Roubles\r\nMeds case"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Postman Pat - Part 2",
+            "Type": "PickUp",
+            "Objective": "Hand over the letter from messenger to the Therapist",
+            "Reward": "+4,200 EXP\r\nTherapist Rep +0.06\r\n5,000 Roubles\r\nUnlocks purchase of Salewa FIRST AID KIT at LL2"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Out of curiosity",
+            "Type": "PickUp",
+            "Objective": "Find a transport with chemicals\r\nMark the chemical transport with a beacon\r\nSurvive and extract Customs",
+            "Reward": "+8,300 EXP\r\nTherapist Rep +0.3\r\n170,000 Roubles"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Trust regain",
+            "Type": "PickUp",
+            "Objective": "Find 303 dorm room key\r\nFind ZB-014 key\r\nFind the customs military checkpoint key\r\nFind gas station closet key\r\nHand over 303 key\r\nHand over ZB-014 key\r\nHand over the checkpoint key\r\nHand over closet key",
+            "Reward": "Therapist Rep +0.3"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Hippocratic Vow",
+            "Type": "Completion",
+            "Objective": "Handover 500 dollars.",
+            "Reward": "Therapist Rep +0.2"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Private clinic",
+            "Type": "Completion",
+            "Objective": "Handover 3 Ophthalmoscopes\r\nHandover 3 LEDX Skin Transilluminators",
+            "Reward": "+20,100 EXP\r\nTherapist Rep +0.11\r\n130,000 Roubles\r\n1x T H I C C Items case\r\n1x West wing room 306 key"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Athlete",
+            "Type": "Skill",
+            "Objective": "Earn 10 Health skill level",
+            "Reward": "+19,600 EXP\r\nTherapist Rep +0.11\r\n110,000 Roubles\r\n3x Hemostatic drug Zagustin\r\n3x Adrenaline injector\r\nUnlocks purchase of Adrenaline injector at LL4"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "Decontamination service",
+            "Type": "Elimination",
+            "Objective": "Kill 30 Scavs at the Interchange, from the range less than 60 meters.You must be wearing spec. gear",
+            "Reward": "+21,600 EXP\r\nTherapist Rep +0.11\r\n300,000 Roubles\r\n3x Morphine injector\r\n3x IFAK personal tactical first aid kit"
+        },
+        {
+            "Person": "Therapist",
+            "Quest": "An apple a day - keeps the doctor away",
+            "Type": "Completion",
+            "Objective": "Handover 400,000 roubles",
+            "Reward": "+200 Health Skill points"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Supplier",
+            "Type": "PickUp",
+            "Objective": "Hand over 4 body armor to Skier\r\nHand over 4 shotguns to Skier",
+            "Reward": "+3,300 EXP\r\nSkier Rep +0.12\r\n60,000 Roubles\r\nUnlocks purchase of Saiga-9 9x19 Carbine at LL1"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "The Extortionist",
+            "Type": "PickUp",
+            "Objective": "Find the hidden valuable cargo\r\n(Optional) Find the messenger body\r\n(Optional) Find a place where the messenger hid the item\r\nHand it over to Skier",
+            "Reward": "+3,200 EXP\r\nSkier Rep +0.08\r\n500 Dollars\r\nVepr AKM / VPO-209 366TKM carbine\r\n3x Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Stirrup",
+            "Type": "Elimination",
+            "Objective": "Eliminate 4 PMC operators. You must be using pistols",
+            "Reward": "+4,700 EXP\r\nSkier Rep +0.12\r\nPrapor Rep -0.12\r\nTherapist Rep -0.05\r\n65,000 Roubles\r\nCamelbak Tri-Zip Backpack\r\nUnlocks purchase of Vepr AKM / VPO-209 366TKM carbine at LL1"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "What's on the flash drive?",
+            "Type": "PickUp",
+            "Objective": "Find two USB flash drives with information\r\nHand them over to Skier",
+            "Reward": "+4,500 EXP\r\nSkier Rep +0.1\r\nJaeger Rep -0.01\r\n30,000 Roubles\r\nSimonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version\r\n2x ProMag SKS-A5 7.62x39 20-round SKS magazine"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "What's on the flash drive?",
+            "Type": "PickUp",
+            "Objective": "Find two USB flash drives with information\r\nHand them over to Skier",
+            "Reward": "+4,500 EXP\r\nSkier Rep +0.1\r\nJaeger Rep -0.01\r\n30,000 Roubles\r\nSimonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version\r\n2x ProMag SKS-A5 7.62x39 20-round SKS magazine"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Golden swag",
+            "Type": "Completion",
+            "Objective": "Find a Gilded Zibbo lighter\r\nLeave the lighter in the bunkhouse in the trailer parking (Customs)",
+            "Reward": "+4,600 EXP\r\nSkier Rep +0.1\r\n+17,000 Roubles\r\nAS VAL\r\n3x 20-round 6L25 9x39 VSS magazine\r\nUnlocks purchase of VOMZ Pilad P1X42 \"WEAVER\" reflex sight at LL2"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Chemical - Part 1",
+            "Type": "PickUp",
+            "Objective": "Find some information about the Deputy Chief's past life\r\n(Optional) Find a sleeping place of the former Deputy Chief of Security\r\nHand it over to Skier\r\nFind items that can help the investigation\r\nHand them over to Skier",
+            "Reward": "+4,800 EXP\r\nSkier Rep +0.08\r\n15,000 Roubles\r\nPACA Soft Armor"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Chemical - Part 2",
+            "Type": "PickUp",
+            "Objective": "Find any information that could help with the investigation\r\nHand it over to Skier\r\nFind any information that could help with the investigation\r\nHand it over to Skier",
+            "Reward": "+4,900 EXP\r\nSkier Rep +0.08\r\n15,000 Roubles\r\n3x F-1 Hand grenade\r\nUnlocks purchase of SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons at LL2"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Chemical - Part 3",
+            "Type": "PickUp",
+            "Objective": "Find a Syringe with a chemical in the Factory\r\nHand over the syringe to Skier",
+            "Reward": "+5,400 EXP\r\nSkier Rep +0.08\r\nJaeger Rep -0.01\r\n17,000 Roubles\r\n2x Zenit-Belomo PSO 1M2-1 4x24 scope"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Chemical - Part 4",
+            "Type": "PickUp",
+            "Objective": "Find a transport with chemicals\r\nMark the chemical transport with a beacon\r\nSurvive and extract Customs",
+            "Reward": "+6,600 EXP\r\nSkier Rep +0.1\r\nJaeger Rep -0.01\r\n75,000 Roubles\r\nUnlocks purchase of ZSh-1-2M helmet (black) at Ragman LL3"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Loyalty buyout",
+            "Type": "Loyalty",
+            "Objective": "Give 1 million roubles to Skier",
+            "Reward": "Skier Rep +0.3"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Friend from the West - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 5 USECs\r\nFind 2 Flyye MBSS Backpacks\r\nHand over 2 Flyye MBSS Backpacks\r\nFind 1 AVS vest\r\nHand over 1 AVS vest",
+            "Reward": "+10,800 EXP\r\nSkier Rep +0.14\r\n700 Dollars\r\nColt M4A1 5.56x45 Assault Rifle"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Friend from the West - Part 2",
+            "Type": "Merchant",
+            "Objective": "Hand over $6,000",
+            "Reward": "+9,200 EXP\r\nSkier Rep +0.12"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "\"Vitamins\" - Part 1",
+            "Type": "PickUp",
+            "Objective": "Get first Chemical container\r\nHand over first Chemical container\r\nGet second Chemical container\r\nHand over second Chemical container\r\nGet third Chemical container\r\nHand over third Chemical container",
+            "Reward": "+14,100 EXP\r\nSkier Rep +0.1\r\nJaeger Rep -0.01\r\n37,000 Roubles\r\n3x Holosun HS401G5 reflex sight"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Lend lease - Part 1",
+            "Type": "PickUp",
+            "Objective": "Get first Motor Controller\r\nHand over first controller\r\nGet second Motor Controller\r\nHand over second controller\r\nGet third Motor Controller\r\nHand over third controller\r\nGet first Single-axis Fiber Optic Gyroscope\r\nHand over first Single-axis Fiber Optic Gyroscope\r\nGet second Single-axis Fiber Optic Gyroscope\r\nHand over second Single-axis Fiber Optic Gyroscope",
+            "Reward": "+20,000 EXP\r\nSkier Rep +0.12\r\n3,500 Dollars"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Informed means armed",
+            "Type": "Completion",
+            "Objective": "Install a WIFI camera to watch the pier\r\nInstall the WIFI camera to watch the road to port\r\nInstall the WIFI camera to watch Kiba Arms store",
+            "Reward": "+15,900 EXP\r\nSkier Rep +0.1\r\n45,000 Roubles\r\n2x Fab Defense UAS for AK"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Chumming",
+            "Type": "Completion",
+            "Objective": "Stash 3 gold chains under the mattress next to BTR-80A\r\nStash 3 gold chains in the microwave on the 3rd floor of dorms\r\nStash 3 gold chains in the middle accommodation unit of the sawmill\r\nKill 5 PMC operators on Interchange in time period from 23:00 till 10:00",
+            "Reward": "+22,000 EXP\r\nSkier Rep +0.12\r\n65,000 Roubles\r\nRoler submariner gold wrist watch"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Kind of sabotage",
+            "Type": "PickUp",
+            "Objective": "Hand over folder 0052 to Skier",
+            "Reward": "+4,600 EXP\r\nSkier Rep +0.3\r\n180,000 Roubles"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Silent caliber",
+            "Type": "Elimination",
+            "Objective": "Kill 20 Scavs with a suppressed 12 gauge shotgun\r\nKill 10 PMC's with a suppressed 12 gauge shotgun",
+            "Reward": "+12,900 EXP\r\nSkier Rep +0.09\r\n100,000 Roubles\r\nDVL-10 Saboteur sniper rifle"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Flint",
+            "Type": "Skill",
+            "Objective": "Earn 8 Stress Resistance skill level",
+            "Reward": "+20,000 EXP\r\nSkier Rep +0.08\r\n150,000 Roubles\r\nUnlocks barter for M-2 Tactical Sword at LL4"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Bullshit",
+            "Type": "Discovery",
+            "Objective": "Find False flash drive\r\nPut fake flash drive (Dorms, 3-rd floor. Pile of trash opposite the stairs)\r\nPut sniper rifle SV-98 (Dorms, 3-rd floor. Pile of trash opposite the stairs\r\nPut Roler watch (Dorms, 3-rd floor. Pile of trash opposite the stairs)\r\nDo not kill Scavs at Customs until the quest is completed",
+            "Reward": "+29,700 EXP\r\nSkier Rep +0.07\r\n120,000 Roubles\r\nUnlocks barter for 5 pcs. 12x70 DIPP ammo box at LL3"
+        },
+        {
+            "Person": "Skier",
+            "Quest": "Setup",
+            "Type": "Elimination",
+            "Objective": "Kill 15 PMC's at Customs. You must be wearing spec. gear",
+            "Reward": "+29,300 EXP\r\nSkier +0.07\r\n100,000 Roubles\r\nUnlocks barter for 20 pcs. 9x19 mm DIPP ammo box at LL4"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Fishing Gear",
+            "Type": "Completion",
+            "Objective": "Find the secret spot\r\nLeave sniper rifle in place\r\nLeave multitool in place\r\nSurvive and leave the area",
+            "Reward": "+5,400 EXP\r\nPeacekeeper Rep +0.06\r\n800 Dollars\r\nKiver-M Helmet\r\nUnlocks purchase of Aimpoint Micro T-1 reflex sight at LL1"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Tigr Safari",
+            "Type": "Discover",
+            "Objective": "Mark first Tigr vehicle at Customs\r\nMark second Tigr vehicle at Customs\r\nMark third Tigr vehicle at Customs\r\nSurvive and leave the area",
+            "Reward": "+6,600 EXP\r\nPeacekeeper Rep +0.07\r\nJaeger Rep -0.01\r\n900 Dollars\r\nANA Tactical Alpha chest rig\r\n2x 60-round MAG5-60 5.56x45 STANAG magazine"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Scrap Metal",
+            "Type": "Discover",
+            "Objective": "Mark first tank T-90 at Shoreline\r\nMark second tank T-90 at Shoreline\r\nMark third tank T-90 at Shoreline\r\nSurvive and leave the area",
+            "Reward": "+7,200 EXP\r\nPeacekeeper Rep +0.07\r\nJaeger Rep -0.01\r\n850 Dollars\r\n2x AKM 7.62x39 assault rifle\r\n200x 7.62x39 mm PS\r\nUnlocks purchase of HK MP5 9x19 submachinegun (Navy 3 Round Burst) \"SD\" variant at LL2"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Eagle Eye",
+            "Type": "PickUp",
+            "Objective": "Find the first UAV crash site\r\nFind SAS disk from the first crashed drone\r\nHand over SAS disk from the first crashed drone\r\nFind the second UAV crash site\r\nFind SAS disk from the second crashed drone\r\nHand over SAS disk from the second crashed drone",
+            "Reward": "+7,300 EXP\r\nPeacekeeper Rep +0.07\r\n900 Dollars\r\nLeupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope\r\nELCAN SpecterDR 1x/4x Scope FDE"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Humanitarian Supplies",
+            "Type": "Discover",
+            "Objective": "Mark first truck with lost UN cargo\r\n(Optional) Find first truck with lost UN cargo\r\nMark second truck with lost UN cargo\r\n(Optional) Find second truck with lost UN cargo\r\nFind 5 MRE ration packs\r\nDeliver 5 MRE ration packs to Peacekeeper\r\nKill 10 Scavs at the Shoreline. You must be wearing UN uniform (MF-UNTAR armor vest and UNTAR helmet)\r\nSurvive and leave the area",
+            "Reward": "+7,400 EXP\r\nPeacekeeper Rep +0.07\r\n800 Dollars\r\nUnlocks purchase of Hexagon AK-74 5.45x39 sound suppressor at Skier LL2"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "The Cult - Part 1",
+            "Type": "Exploration",
+            "Objective": "Find the missing informant\r\nSurvive and leave the area",
+            "Reward": "+6,700 EXP\r\nPeacekeeper Rep +0.06\r\n700 Dollars\r\n3x Golden neck chain\r\nUnlocks purchase of 5.56x45 mm M856A1 at LL2"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "The Cult - Part 2",
+            "Type": "Exploration",
+            "Objective": "Put the beacon on the ritual spot at the Customs\r\nPut the beacon on the ritual spot in the Woods\r\nPut the beacon on the ritual spot in the Shoreline\r\nSurvive and leave the area",
+            "Reward": "+8,200 EXP\r\nPeacekeeper Rep +0.07\r\n850 Dollars\r\n3x Gas analyzer\r\n3x Geiger-Muller counter"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 7 Scavs at the Shoreline with 12 gauge shotgun headshots",
+            "Reward": "+8,900 EXP\r\nPeacekeeper Rep +0.07\r\n950 Dollars\r\nSIG MPX 9x19 Submachine gun"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 2",
+            "Type": "Exploration",
+            "Objective": "Mark the helicopter with a beacon\r\nMark a safe road with a beacon\r\nSurvive and leave the area",
+            "Reward": "+7,500 EXP\r\nPeacekeeper Rep +0.06\r\n900 Dollars\r\nUnlocks purchase of M67 Hand grenade at LL2"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 3",
+            "Type": "PickUp",
+            "Objective": "Find in raid WD-40 100ml\r\nHand over WD-40 100ml\r\nFind in raid Clin wipers, 2 pcs\r\nHand over Clin wipers, 2 pcs\r\nFind in raid Corrugated hoses, 2 pcs\r\nHand over Corrugated hoses, 2 pcs\r\nFind in raid Ox bleach, 2 pcs\r\nHand over Ox bleach, 2 pcs",
+            "Reward": "+9,100 EXP\r\nPeacekeeper Rep +0.07\r\n800 Dollars\r\n2x HK MP5 9x19 submachinegun (Navy 3 Round Burst)\r\n5x M67 Hand grenade"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 4",
+            "Type": "Discover",
+            "Objective": "Find generators in right wing\r\nFind generators in left wing\r\nSurvive and leave the area",
+            "Reward": "+9,300 EXP\r\nPeacekeeper Rep +0.07\r\n1,100 Dollars"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 5",
+            "Type": "PickUp",
+            "Objective": "Find the key from the locked resort rooms\r\nHand over key from the locked resort rooms",
+            "Reward": "+7,800 EXP\r\nPeacekeeper Rep +0.06\r\n980 Dollars\r\n4x IFAK personal tactical first aid kit"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 6",
+            "Type": "Loyalty",
+            "Objective": "Hand over $8,000",
+            "Reward": "+11,400 EXP\r\nPeacekeeper Rep +0.09\r\nUnlocks purchase of 7.62x51 mm M62 at LL3"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Spa Tour - Part 7",
+            "Type": "PickUp",
+            "Objective": "Find in raid Morphine injector, 4 pcs\r\nHand over Morphine injector, 4 pcs\r\nFind in raid Heat-exchange alkali surface washer, 2 pcs\r\nHand over Heat-exchange alkali surface washer, 2 pcs\r\nFind in raid Corrugated hose, 2 pcs\r\nHand over Corrugated hose, 2 pcs\r\nFind in raid 5L propane tank, 2 pcs\r\nHand over 5L propane tank, 2 pcs",
+            "Reward": "+11,600 EXP\r\nPeacekeeper Rep +0.09\r\nJaeger Rep -0.01\r\nFactory exit key"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Cargo X - Part 1",
+            "Type": "PickUp",
+            "Objective": "\t\r\nFind the cargo record in the computer room\r\nHand over the retrieved data to Peacekeeper",
+            "Reward": "+10,400 EXP\r\nPeacekeeper Rep +0.07\r\n700 Dollars\r\nPistol case"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Cargo X - Part 2",
+            "Type": "Exploration",
+            "Objective": "Find a room with reservoirs\r\nFind any information on the second part of the shipment\r\nGive the info on the second part of the cargo to Peacekeeper",
+            "Reward": "+8,600 EXP\r\nPeacekeeper Rep +0.07\r\n850 Dollars\r\nUnlocks purchase of KAC QDSS NT-4 5.56x45 silencer (Black) at LL3"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Cargo X - Part 3",
+            "Type": "Multi",
+            "Objective": "Find hidden Terragroup cargo\r\nSurvive and leave the area",
+            "Reward": "+10,700 EXP\r\nPeacekeeper Rep +0.07\r\n900 Dollars\r\nHK MP5 9x19 submachinegun (Navy 3 Round Burst)\r\n3x Standard MP5 30-round 9x19 magazine"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Lend lease - Part 2",
+            "Type": "PickUp",
+            "Objective": "Find 2 Military COFDM wireless Signal Transmitters\r\nFind 3 Virtex programmable processors\r\nHandover 2 Military COFDM wireless Signal Transmitters\r\nHandover 3 Virtex programmable processors",
+            "Reward": "+22,200 EXP\r\nPeacekeeper Rep +0.09\r\n2,000 Dollars\r\n2x HK 416A5 5.56x45 Assault Rifle\r\n300x 5.56x45 mm M995\r\n2x Magpul PMAG D-60 5.56x45 60-round magazine\r\n2x 60-round MAG5-60 5.56x45 STANAG magazine"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 10 Scavs at the Shoreline using a suppressed M4 or ADAR",
+            "Reward": "+13,000 EXP\r\nPeacekeeper Rep +0.09\r\nJaeger Rep -0.01\r\n1,200 Dollars"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 2",
+            "Type": "Exploration",
+            "Objective": "Find the fisher's dwelling\r\nSet the beacon\r\nSurvive and leave the area",
+            "Reward": "+11,700 EXP\r\nPeacekeeper Rep +0.07\r\n1,300 Dollars\r\nUnlocks barter for Magpul PMAG D-60 5.56x45 60-round magazine at LL3"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 3",
+            "Type": "Exploration",
+            "Objective": "Find Artyom's car\r\nSurvive and leave the area",
+            "Reward": "+9,900 EXP\r\nPeacekeeper Rep +0.06\r\n1,500 Dollars"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 4",
+            "Type": "PickUp",
+            "Objective": "Find a list of resort tenants\r\nHand over the list of tenants to Peacekeeper",
+            "Reward": "+10,000 EXP\r\nPeacekeeper Rep +0.06\r\n1,600 Dollars"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 5",
+            "Type": "PickUp",
+            "Objective": "Find info on Artyom's work\r\nHand over the info to Peacekeeper",
+            "Reward": "+10,200 EXP\r\nPeacekeeper Rep +0.06\r\n1,600 Dollars\r\nUnlocks purchase of Remington R11 RSASS 7.62x51 at LL4"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Wet Job - Part 6",
+            "Type": "Skill",
+            "Objective": "Reach level 7 in Sniper rifle handling skill",
+            "Reward": "+10,400 EXP\r\nPeacekeeper Rep +0.06\r\nJaeger Rep -0.01\r\n3,500 Dollars\r\nDVL-10 Saboteur sniper rifle\r\nUnlocks purchase of 7.62x51 mm M61 at LL4"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "The guide",
+            "Type": "Exploration",
+            "Objective": "Survive at Interchange (Status: Survived)\r\nSurvive at Shoreline (Status: Survived)\r\nSurvive at Factory (Status: Survived)\r\nSurvive at Laboratory (Status: Survived)\r\nSurvive at Woods (Status: Survived)\r\nSurvive at Customs (Status: Survived)\r\nSurvive at Reserve (Status: Survived)",
+            "Reward": "+35,100 EXP\r\nPeacekeeper Rep +0.12\r\n25,000 Dollars\r\nEotech HHS-1 sight Tan\r\nSLAAP armor Plate (Tan)\r\n3x Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons\r\nUnlocks purchase of Eotech HHS-1 sight Tan at LL4\r\nUnlocks purchase of SLAAP armor Plate (Tan) at LL4\r\nUnlocks purchase of Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons at LL2"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Peacekeeping mission",
+            "Type": "Elimination",
+            "Objective": "Kill 12 Scavs on Customs while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\r\nKill 12 Scavs on Interchange while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\r\nKill 12 Scavs on Shoreline while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\r\nKill 12 Scavs on Woods while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)",
+            "Reward": "+32,400 EXP\r\nPeacekeeper Rep +0.12\r\nRemington Model 700 Sniper rifle\r\n150x 7.62x51 mm M61\r\n2x GPNVG-18 Night Vision"
+        },
+        {
+            "Person": "Peacekeeper",
+            "Quest": "Mentor",
+            "Type": "Completion",
+            "Objective": "Handover 50,000 euros",
+            "Reward": "+300 Sniper Rifles Skill points"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 1\t",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify MP-133 to comply with the required specification",
+            "Reward": "+6,500 EXP\r\nMechanic Rep +0.04\r\n20,000 Roubles\r\nGLOCK 17 9x19 pistol\r\n50x 9x19 mm Pst gzh"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 2",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AKS-74U to comply with the required specification",
+            "Reward": "+6,000 EXP\r\nMechanic Rep +0.04\r\n60,000 Roubles"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 3",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify MP5 to comply with the required specification",
+            "Reward": "+8,000 EXP\r\nMechanic Rep +0.05\r\n500 Euros\r\nSubmachinegun 19-01 Vityaz-SN 9x19"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 4",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify M4A1 to comply with the required specification",
+            "Reward": "+10,100 EXP\r\nMechanic Rep +0.05\r\n800 Euros\r\nPhysical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 5",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify DVL-10 to comply with the required specification",
+            "Reward": "+13,900 EXP\r\nMechanic Rep +0.06\r\n200,000 Roubles"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 6",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify R11 RSASS to comply with the required specification",
+            "Reward": "+14,900 EXP\r\nMechanic Rep +0.06\r\n1,000 Euros\r\n3x Physical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 7",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify Remington Model 870 to comply with the required specification",
+            "Reward": "+16,000 EXP\r\nMechanic Rep +0.06\r\n100,000 Roubles\r\nGLOCK 17 9x19 pistol"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 8",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AKM to comply with the required specification",
+            "Reward": "+16,200 EXP\r\nMechanic Rep +0.06\r\n1,500 Euros\r\n2x Physical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 9",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AKS-74N to comply with the required specification",
+            "Reward": "+17,300 EXP\r\nMechanic Rep +0.06\r\n500 Euros\r\nColt M4A1 5.56x45 Assault Rifle"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 10",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AK-105 to comply with the required specification",
+            "Reward": "+17,500 EXP\r\nMechanic Rep +0.06\r\n2x Ammo case\r\nUnlocks purchase of Colt M4A1 5.56x45 Assault Rifle \"SOPMOD I\" variant at LL3"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 11",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AS VAL to comply with the required specification",
+            "Reward": "+18,600 EXP\r\nMechanic Rep +0.06\r\nKey to KIBA Outlet grate door"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 12",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AK-102 to comply with the required specification",
+            "Reward": "+14,400 EXP\r\nMechanic Rep +0.04\r\n70,000 Roubles\r\nRemington Model 870 12ga shotgun\r\nUnlocks purchase of Magpul AFG grip OD at LL3"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 13",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify SIG MPX to comply with the required specification",
+            "Reward": "+19,000 EXP\r\nMechanic Rep +0.05\r\n500 Dollars\r\nMuzzle brake Vendetta precision VP-09 5.56x45\r\nUnlocks purchase of Skeletonized AR-15 pistol grip at LL4"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 14",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify AKMN to comply with the required specification",
+            "Reward": "+20,800 EXP\r\nMechanic Rep +0.05\r\n100,000 Roubles\r\nEOtech Vudu 1-6 riflescope\r\nUnlocks purchase of LAS/TAC 2 tactical flashlight at LL3"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 15",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify M1A to comply with the required specification",
+            "Reward": "+22,600 EXP\r\nMechanic Rep +0.05\r\n700 Euros\r\nSpringfield Armory M1A 7.62x51"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Gunsmith - Part 16",
+            "Type": "Parameter-oriented modding",
+            "Objective": "Modify M4A1 to comply with the required specification",
+            "Reward": "+28,500 EXP\r\nMechanic Rep +0.06\r\n2,500 Euros\r\nColt M4A1 5.56x45 Assault Rifle"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Farming - Part 1",
+            "Type": "Completion",
+            "Objective": "Fix the first control board\r\nFix the second control board\r\nSurvive and leave the area",
+            "Reward": "+8,000 EXP\r\nMechanic Rep +0.04\r\n25,000 Roubles"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Farming - Part 2",
+            "Type": "PickUp",
+            "Objective": "Get Powercord, 3 pcs\r\nHand over Powercord, 3 pcs\r\nGet T-Shaped Plug, 5 pcs\r\nHand over T-Shaped Plug, 5 pcs\r\nGet Printed circuit board, 3 pcs\r\nHand over Printed circuit board, 3 pcs",
+            "Reward": "+6,800 EXP\r\nMechanic Rep +0.03\r\n15,000 Roubles\r\nAKMSN 7.62x39 assault rifle"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Farming - Part 3",
+            "Type": "Completion",
+            "Objective": "Find a warehouse of confiscate\r\nGet package with graphics cards\r\nHand over package with graphics cards",
+            "Reward": "+8,100 EXP\r\nMechanic Rep +0.03\r\n20,000 Roubles\r\nPhysical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Farming - Part 4",
+            "Type": "PickUp",
+            "Objective": "Get Graphics card, 7 pcs\r\nHand over Graphics card, 7 pcs\r\nGet CPU Fan, 7 pcs\r\nHand over CPU Fan, 7 pcs",
+            "Reward": "+9,800 EXP\r\nMechanic Rep +0.04\r\n300 Euros\r\nGLOCK 17 9x19 pistol"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Signal - Part 1",
+            "Type": "Discover",
+            "Objective": "Find the first signal source\r\nFind the second signal source\r\nSurvive and leave the area",
+            "Reward": "+8,500 EXP\r\nMechanic Rep +0.04\r\n10,000 Roubles\r\n3x SGMT Drum mag for Glock 9x19, 50 rounds capacity"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Signal - Part 2",
+            "Type": "PickUp",
+            "Objective": "Find in raid 3 PC CPU\r\nFind in raid 3 Rechargeable battery\r\nFind in raid 3 Printed circuit board\r\nFind in raid 3 Broken GPhone\r\nHand over PC CPU, 3 pcs\r\nHand over Rechargeable battery, 3 pcs\r\nHand over Printed circuit board, 3 pcs\r\nHand over Broken GPhone, 3 pcs",
+            "Reward": "+8,700 EXP\r\nMechanic Rep +0.04\r\n50,000 Roubles"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Signal - Part 3",
+            "Type": "Completion",
+            "Objective": "Place first jammer\r\nPlace second jammer\r\nPlace third jammer\r\nSurvive and leave the area",
+            "Reward": "+11,000 EXP\r\nMechanic Rep +0.04\r\n30,000 Roubles\r\nRemington Model 870 12ga shotgun"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Signal - Part 4",
+            "Type": "Skill",
+            "Objective": "Increase memory skill level to 4",
+            "Reward": "+11,100 EXP\r\nMechanic Rep +0.04\r\n20,000 Roubles\r\nNightforce ATACR 7-35x56 riflescope"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Bad habit",
+            "Type": "PickUp",
+            "Objective": "Find in raid Malboro cigarettes, 7 pcs\r\nHand over Malboro cigarettes, 7 pcs\r\nFind in raid Strike cigarettes, 7 pcs\r\nHand over Strike cigarettes, 7 pcs\r\nFind in raid Wilston cigarettes, 7 pcs\r\nHand over Wilston cigarettes, 7 pcs",
+            "Reward": "+9,000 EXP\r\nMechanic Rep +0.04\r\n300 Euros\r\nStechkin Automatic Pistol 9x18PM"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Scout",
+            "Type": "Completion",
+            "Objective": "Find a way out of the factory 1\r\nFind a way out of the factory 2\r\nFind a way out of the factory 3\r\nSurvive and exit the location",
+            "Reward": "+9,200 EXP\r\nMechanic Rep +0.04\r\n30,000 Roubles\r\n2x Physical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Insider",
+            "Type": "Standing",
+            "Objective": "Reach level 3 loyalty with Prapor",
+            "Reward": "+9,300 EXP\r\nMechanic Rep +0.04\r\n800 Euros\r\n2x SilencerCo Osprey 9 9x19mm sound suppressor"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Psycho Sniper",
+            "Type": "Skill",
+            "Objective": "Upgrade the Sniper skill to level 9",
+            "Reward": "+32,400 EXP\r\n150,000 Roubles"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Import",
+            "Type": "PickUp",
+            "Objective": "Handover 2 UHF RFID Readers\r\nHandover 2 VPX Flash Storage Modules",
+            "Reward": "+42,800 EXP\r\nMechanic Rep +0.07\r\nJaeger Rep -0.01\r\nTrijicon REAP-IR thermal riflescope\r\n85,000 Roubles\r\n3x Physical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Fertilizers",
+            "Type": "PickUp",
+            "Objective": "Find in raid 5 Wires\r\nFind in raid 5 Capacitors\r\nHandover 5 Wires\r\nHandover 5 Capacitors",
+            "Reward": "+19,500 EXP\r\nMechanic Rep +0.06\r\n65,000 Roubles\r\n3x Physical bitcoin"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "A Shooter Born in Heaven",
+            "Type": "Elimination",
+            "Objective": "Kill 3 PMCs with headshots in the Woods from a distance of more than 100 meters.\r\nKill 3 PMCs with headshots in the Interchange from a distance of more than 100 meters.\r\nKill 3 PMCs with headshots in the Shoreline from a distance of more than 100 meters.\r\nKill 3 PMCs with headshots in the Customs from a distance of more than 100 meters.",
+            "Reward": "+39,500 EXP\r\nMechanic Rep +0.06\r\n100,000 Roubles\r\n4x 7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity\r\n100x 7.62x54R SNB\r\n1x Mosin bolt-action sniper rifle\r\nUnlocks purchase of Magazine case at LL3"
+        },
+        {
+            "Person": "Mechanic",
+            "Quest": "Introduction",
+            "Type": "Completion",
+            "Objective": "Find Jaeger's camp\r\nFind Jaeger's message\r\nHandover the message to the Mechanic",
+            "Reward": "+4,500 EXP\r\nMechanic Rep +0.05\r\n15,000 Roubles\r\nUnlocks Jaeger"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Only business",
+            "Type": "Merchant",
+            "Objective": "Obtain level 2 loyalty with Ragman",
+            "Reward": "+6,700 EXP\r\nRagman Rep +0.06\r\n10,000 Roubles\r\nWartech gear rig (TV-109, TV-106)"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Make ULTRA Great Again",
+            "Type": "Completion",
+            "Objective": "Kill 25 Scavs at the Interchange.",
+            "Reward": "+9,800 EXP\r\nRagman Rep +0.09\r\n50,000 Roubles"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Big sale",
+            "Type": "Exploration",
+            "Objective": "Check AVOKADO\r\nCheck KOSTIN\r\nCheck tRend\r\nCheck DINO CLOTHES\r\nCheck TOP BRAND\r\nSurvive and leave the area",
+            "Reward": "+8,900 EXP\r\nRagman Rep +0.07\r\n17,000 Roubles\r\nCamelback Tri-Zip Backpack"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "The Blood of War - Part 1",
+            "Type": "Completion",
+            "Objective": "Mark tank 1\r\nMark tank 2\r\nMark tank 3\r\nSurvive and leave the area",
+            "Reward": "+7,500 EXP\r\nRagman Rep +0.06\r\n60,000 Roubles"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Dressed to kill",
+            "Type": "Completion",
+            "Objective": "Hand over Ushanka ear-flap cap, 7 pcs\r\nHand over Kinda cowboy hat, 7 pcs",
+            "Reward": "+10,200 EXP\r\nRagman Rep +0.07\r\n21,000 Roubles\r\nBNTI Gzhel-K armor"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Gratitude",
+            "Type": "Completion",
+            "Objective": "Find the secret spot\r\nLeave the Ghost balaclava in place\r\nLeave the Shemagh in place\r\nLeave the RayBench sunglasses in place\r\nLeave the Round frame sunglasses in place",
+            "Reward": "+16,300 EXP\r\nRagman Rep +0.07\r\n80,000 Roubles"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Sales Night",
+            "Type": "Completion",
+            "Objective": "Survive in the raid at Interchange 7 times",
+            "Reward": "+19,800 EXP\r\nRagman Rep +0.09\r\n35,000 Roubles\r\n2x SSO \"Attack 2\" raid backpack"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Hot delivery",
+            "Type": "Completion",
+            "Objective": "Stash Peltor ComTac 2 in specified place, 2 pcs\r\nStash 6B47 Ratnik-BSh Helmet in specified place, 2 pcs\r\nStash BNTI Gzhel-K armor in specified place, 2 pcs",
+            "Reward": "+25,000 EXP\r\nRagman Rep +0.09\r\n55,000 Roubles\r\nIOTV Gen4 armor (full protection)\r\nUnlocks barter for IOTV Gen4 armor (full protection) at LL4"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Database - Part 1",
+            "Type": "Exploration",
+            "Objective": "Get Goshan cargo manifests\r\nHand over Goshan cargo manifests\r\nGet OLI cargo manifests\r\nHand over OLI cargo manifests\r\nGet IDEA cargo manifests\r\nHand over IDEA cargo manifests",
+            "Reward": "+11,500 EXP\r\nRagman Rep +0.07\r\n22,000 Roubles\r\nMSA Sordin Supreme PRO-X/L active headphones"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Database - Part 2",
+            "Type": "Completion",
+            "Objective": "Get OLI cargo route documents\r\nHand over OLI cargo route documents",
+            "Reward": "+11,700 EXP\r\nRagman Rep +0.07\r\n60,000 Roubles"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Minibus",
+            "Type": "Completion",
+            "Objective": "Mark first minibus\r\nMark second minibus\r\nMark third minibus\r\nSurvive and leave the area",
+            "Reward": "+16,500 EXP\r\nRagman Rep +0.07\r\n50,000 Roubles\r\nAna tactical Beta 2 battle backpack"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Sew it good - Part 1",
+            "Type": "PickUp",
+            "Objective": "Get Ski hat with holes for eyes, 2 pcs\r\nHand over Ski hat with holes for eyes, 2 pcs\r\nGet Pilgrim tourist backpack, 2 pcs\r\nHand over Pilgrim tourist backpack, 2 pcs",
+            "Reward": "+12,300 EXP\r\nRagman Rep +0.06\r\n25,000 Roubles\r\nSSSh-95 Sfera-S (Sphere-S)"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Sew it good - Part 2",
+            "Type": "PickUp",
+            "Objective": "Get Gzhel in 0-50% condition\r\nHand over Gzhel in 0-50% condition\r\nGet Gzhel in 50-100% condition\r\nHand over Gzhel in 50-100% condition",
+            "Reward": "+18,700 EXP\r\nRagman Rep +0.09\r\n10,000 Roubles\r\n2x ZSh-1-2M face shield"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Sew it good - Part 3",
+            "Type": "PickUp",
+            "Objective": "Get 6B43 with 0-50% condition\r\nHand over 6B43 with 0-50% condition\r\nGet 6B43 with 50-100% condition\r\nHand over 6B43 with 50-100% condition",
+            "Reward": "+19,700 EXP\r\nRagman Rep +0.09\r\n65,000 Roubles"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Sew it good - Part 4",
+            "Type": "PickUp",
+            "Objective": "Find in raid 2 Wartech (TV-109, TV-106)\r\nHand over 2 Wartech (TV-109, TV-106)\r\nFind in raid 2 BlackRock chest rig\r\nHand over 2 BlackRock chest rig",
+            "Reward": "+20,700 EXP\r\nRagman Rep +0.09\r\n25,000 Roubles\r\nANA Tactical M2 armored rig"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "The Blood of War - Part 2",
+            "Type": "PickUp",
+            "Objective": "Find in raid Fuel conditioner, 4 pcs\r\nHand over Fuel conditioner, 4 pcs",
+            "Reward": "+15,600 EXP\r\nRagman Rep +0.07\r\n20,000 Roubles\r\nHighcom Striker ACHHC IIIA black helmet"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "The Blood of War - Part 3",
+            "Type": "Completion",
+            "Objective": "Find and mark first fuel stash\r\nFind and mark second fuel stash\r\nFind and mark third fuel stash\r\nSurvive and leave the area",
+            "Reward": "+21,000 EXP\r\nRagman Rep +0.09\r\n75,000 Roubles\r\n2x Highcom Trooper TFO armor (multicam)\r\n1x Mystery Ranch Blackjack 50 backpack (multicam)"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "The key to success",
+            "Type": "PickUp",
+            "Objective": "Get Clothes design handbook Part 1\r\nHand over Clothes design handbook Part 1\r\nGet Clothes design handbook Part 2\r\nHand over Clothes design handbook Part 2",
+            "Reward": "+18,100 EXP\r\nRagman Rep +0.07\r\n60,000 Roubles\r\n2x Ghost balaclava"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Living high is not a crime - Part 1",
+            "Type": "PickUp",
+            "Objective": "Get Bronze lion, 3 pcs\r\nHand over Bronze lion, 3 pcs\r\nGet Horse figurine, 3 pcs\r\nHand over Horse figurine, 3 pcs\r\nGet Cat figurine, 2 pcs\r\nHand over Cat figurine, 2 pcs\r\nGet Roler submariner gold wrist watch\r\nHand over Roler submariner gold wrist watch",
+            "Reward": "+23,000 EXP\r\nRagman Rep +0.09\r\n75,000 Roubles\r\n3x Golden neck chain\r\nAltyn helmet"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Living high is not a crime - Part 2",
+            "Type": "PickUp",
+            "Objective": "Find in raid 3 antique teapots\r\nFind in raid 2 antique vases\r\nHandover 3 antique teapots\r\nHandover 2 antique vases",
+            "Reward": "+29,600 EXP\r\nRagman Rep +0.12\r\n110,000 Roubles\r\n2x Zhuk-6a heavy armor\r\n2x Altyn helmet\r\n2x Altyn face shield"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Charisma brings success",
+            "Type": "Skill",
+            "Objective": "Increase the Charisma level to 10",
+            "Reward": "+12,700 EXP\r\nRagman Rep +0.07\r\n30,000 Roubles\r\n2x Altyn face shield"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "No fuss needed",
+            "Type": "Skill",
+            "Objective": "Increase the Therapist loyalty level to 3",
+            "Reward": "+12,900 EXP\r\nRagman Rep +0.07\r\n32,000 Roubles\r\nAltyn helmet"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Supervisor",
+            "Type": "PickUp",
+            "Objective": "Get key from Goshan cash registers\r\nHand over key from Goshan cash registers",
+            "Reward": "+24,100 EXP\r\nRagman Rep +0.09\r\n250,000 Roubles\r\nUnlocks purchase of BNTI Gzhel-K armor at LL3"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "Scavenger",
+            "Type": "Skill",
+            "Objective": "Earn 9 Search skill level",
+            "Reward": "+15,400 EXP\r\nRagman Rep +0.11\r\n65,000 Roubles\r\nUnlocks barter for Crash Axe at LL4"
+        },
+        {
+            "Person": "Ragman",
+            "Quest": "The stylish one",
+            "Type": "Elimination",
+            "Objective": "Eliminate Killa 100 times",
+            "Reward": "100,000 Roubles\r\nAdik Tracksuit"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Acquaintance",
+            "Type": "Completion",
+            "Objective": "Get 5 Iskra lunch box\r\nGet 6 packs of Emelya rye croutons\r\nGet 3 cans of delicious beef stew",
+            "Reward": "+4,000 EXP\r\nJaeger Rep +0.04\r\n15,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Unprotected, but dangerous",
+            "Type": "Completion",
+            "Objective": "Kill 7 scavs on Woods. You should not wear body armor",
+            "Reward": "+7000 EXP\r\nJaeger Rep +0.04\r\n20,000 Roubles\r\n2x Vepr AKM / VPO-209 366TKM carbine\r\n200x .366 TKM EKO"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Thrifty",
+            "Type": "Completion",
+            "Objective": "Stash \"Iskra\" MRE in the ZB-016 bunker\r\nStash bottle of water in the ZB-016 bunker\r\nStash \"Iskra\" MRE in the ZB-014 bunker\r\nStash bottle of water in the ZB-014 bunker",
+            "Reward": "+6,500 EXP\r\nJaeger Rep +0.04\r\n20,000 Roubles\r\n2x Phase control relay"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Zhivchik",
+            "Type": "Experience",
+            "Objective": "Spend 5 minutes in a state of complete dehydration",
+            "Reward": "+9,000 EXP\r\nJaeger Rep +0.03\r\n30,000 Roubles\r\n2x Water bottle with a filter Aquamari"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Wounded beast",
+            "Type": "Completion",
+            "Objective": "Kill 5 scavs while suffering from pain effect",
+            "Reward": "+10,000 EXP\r\n65,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Tough guy",
+            "Type": "Completion",
+            "Objective": "Eliminate 5 scavs on Woods in a single raid. You must not use medicine.\r\nDon't use any medicine during the quest",
+            "Reward": "+12,000 EXP\r\n40,000 Roubles\r\nCMS kit\r\n3 x Pile of meds"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Cold blooded",
+            "Type": "Completion",
+            "Objective": "Eliminate 4 PMCs with the headshot while having tremor",
+            "Reward": "+11,000 EXP\r\nJaeger Rep +0.04\r\n50,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Zatoichi",
+            "Type": "Completion",
+            "Objective": "Kill 2 PMC operators while being blinded by flashbang grenade",
+            "Reward": "+12,000 EXP\r\nJaeger Rep +0.03\r\n30,000 Roubles\r\n30x 12x70 RIP\r\n80x 5.56x45 mm Warmage"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Eagle-owl",
+            "Type": "Completion",
+            "Objective": "Kill 10 scavs between 21:00 and 03:00 without using NVG or Thermal sights",
+            "Reward": "+13,000 EXP\r\nJaeger Rep +0.03\r\n40,000 Roubles\r\n3x Vulcan MG night scope 3.5x"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The survivalist path - Combat medic",
+            "Type": "Completion",
+            "Objective": "Reach level 5 Vitality skill",
+            "Reward": "+14,000 EXP\r\nJaeger Rep +0.04\r\n30,000 Roubles\r\nVitality: +2 points"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Secured perimeter",
+            "Type": "Completion",
+            "Objective": "Eliminate 10 PMС on Factory in the office area",
+            "Reward": "+14,000 EXP\r\nJaeger Rep +0.03\r\n35,000 Roubles\r\n2x Pliers Elite\r\nA set of tools\r\n2x Nippers\r\n2 Corrugated hose"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - The trophy",
+            "Type": "Completion",
+            "Objective": "Eliminate Reshala\r\nFind in raid the golden TT\r\nHandover golden TT to Jaeger",
+            "Reward": "+20,000 EXP\r\nJaeger Rep +0.05\r\n90,000 Roubles\r\nSurv12 field surgical kit\r\n4x Gunpowder \"Kite\"\r\n5x Piece of plexiglas"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Woods cleaning",
+            "Type": "Completion",
+            "Objective": "Kill 50 scavs all over the Tarkov territory",
+            "Reward": "+18,000 EXP\r\nJaeger Rep +0.04\r\n50,000 Roubles\r\n2x Remington Model 700 Sniper rifle"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Controller",
+            "Type": "Completion",
+            "Objective": "Kill 3 PMCs blinded with the flashbang",
+            "Reward": "+21,000 EXP\r\nJaeger Rep +0.04\r\n49,999 Roubles\r\nEOtech Vudu 1-6 riflescope"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Sell-out",
+            "Type": "Elimination",
+            "Objective": "Eliminate Killa\r\nFind In Raid Killa's helmet\r\nHandover Killa's helmet to Jaeger",
+            "Reward": "+23,000 EXP\r\nJaeger Rep +0.05\r\n150,000 Roubles\r\n3x Folder with intelligence\r\nKey to IDEA cash register\r\nKey to OLI cash register"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Woods keeper",
+            "Type": "Completion",
+            "Objective": "Eliminate Shturman\r\nFind in raid Shturman's key\r\nHandover the Shturman's stash key to Jaeger",
+            "Reward": "+25,000 EXP\r\nJaeger Rep +0.05\r\n17,000 Roubles\r\n4x Gunpowder \"Hawk\"\r\nVPX Flash Storage Module\r\n3x TerraGroup Labs access keycard"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Justice",
+            "Type": "Completion",
+            "Objective": "Kill 3 scavs that are dressed in police uniform",
+            "Reward": "+20,000 EXP\r\nJaeger Rep +0.05\r\n80,000 Roubles\r\n5x Expeditionary fuel tank"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Evil watchman",
+            "Type": "Completion",
+            "Objective": "Kill 10 PMCs in the Dorms area on Customs",
+            "Reward": "+20,000 EXP\r\nJaeger Rep 0.04\r\n75,000 Roubles\r\n2x Folder with intelligence\r\n2x Secure Flash drive"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Eraser",
+            "Type": "Completion",
+            "Objective": "Find and eliminate Gluhar",
+            "Reward": "+30,000 EXP\r\nJaeger Rep +0.05\r\n199,999 Roubles\r\n5,000 Dollars\r\nWeapon case"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Huntsman path - Eraser - Part 2",
+            "Type": "Completion",
+            "Objective": "Eliminate 10 raiders",
+            "Reward": "+17,000 EXP\r\nJaeger Rep +0.04\r\n80,000 Roubles\r\nTrijicon REAP-IR thermal riflescope"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Ambulance",
+            "Type": "Completion",
+            "Objective": "Handover 3 CMS surgery kits\r\nHandover 2 portable defibrillators",
+            "Reward": "+12,000 EXP\r\nJaeger Rep +0.3\r\n35,000 Roubles\r\nUnlocks purchase of Surv12 field surgical kit\r\n+100 Vitality Skill points"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Shady business",
+            "Type": "PickUp",
+            "Objective": "Find in raid 3 flash drives\r\nHandover 3 flash drives",
+            "Reward": "+11,000 EXP\r\nJaeger Rep +0.04\r\n50,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Nostalgia",
+            "Type": "Completion",
+            "Objective": "Find a room with the view of a bay, where Jaeger was staying\r\nFind Jaegers' photo album\r\nHandover photo album to Jaeger",
+            "Reward": "+10,000 EXP\r\nJaeger Rep +0.03\r\n30,000 Roubles\r\nDocuments case\r\nKey to HEP station storage"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Fishing place",
+            "Type": "Completion",
+            "Objective": "Find in raid 3 TerraGroup Labs access keycards\r\nHandover 3 TerraGroup Labs access keycards",
+            "Reward": "+15,000 EXP\r\nJaeger Rep +0.04\r\n75,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Courtesy visit",
+            "Type": "Completion",
+            "Objective": "Find priest house\r\nFind fisherman house\r\nFind chairman house",
+            "Reward": "+10,000 EXP\r\nJaeger Rep +0.03\r\n35,000 Roubles"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Hunting trip",
+            "Type": "Completion",
+            "Objective": "Give the Jaeger 3x M700 sniper rifles of a certain configuration",
+            "Reward": "+16,000 EXP\r\nJaeger Rep +0.04\r\n60,000 Roubles\r\nVPX Flash Storage Module\r\nMilitary thermal vision module Iridium\r\nUnlocks purchase of Remington Model 700 Sniper rifle ARCH variant at LL3\r\nUnlocks purchase of Remington Model 700 Sniper rifle AICS variant at LL3\r\nUnlocks purchase of Remington Model 700 Sniper rifle PRO variant at LL4\r\nUnlocks purchase of Remington Model 700 Sniper rifle MRS variant at LL4"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "Reserv",
+            "Type": "Completion",
+            "Objective": "Find the food storage",
+            "Reward": "+9,000 EXP\r\nJaeger Rep +0.03\r\n16,000 Roubles\r\nSilicone tube\r\n3x A pack of nails\r\n3x A pack of screws"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 1",
+            "Type": "Elimination",
+            "Objective": "Kill 10 Scavs over 50 meters away with a Mosin rifle without a scope",
+            "Reward": "+18,900 EXP\r\nJaeger Rep +0.05\r\n50,000 Roubles\r\n2x PU 3.5x riflescope\r\n2x PU 3.5x ring mount\r\n2x Kochetov Mount for Mosin rifle"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 2",
+            "Type": "Elimination",
+            "Objective": "Make 5 hits in the legs from more than 80 meters away with a Mosin\r\nMake 3 headshots from more than 80 meters away with a Mosin",
+            "Reward": "+19,200 EXP\r\nJaeger Rep +0.05\r\n65,000 Roubles\r\nAim Sports MNG rail for Mosin rifle\r\nUnlocks purchase of Aim Sports MNG rail for Mosin rifle at LL1"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 3",
+            "Type": "Elimination",
+            "Objective": "Kill 5 PMC operatives with a Mosin at close range, less than 15 meters away",
+            "Reward": "+16,200 EXP\r\nJaeger Rep +0.04\r\nKinda cowboy hat\r\nTacfire Tanker style muzzlebrake for Mosin rifle\r\nRecoil pad from Aim Sports for Mosin rifle\r\nUnlocks purchase of Tacfire Tanker style muzzlebrake for Mosin rifle at LL2\r\nUnlocks purchase of Recoil pad from Aim Sports for Mosin rifle at LL2"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 4",
+            "Type": "Elimination",
+            "Objective": "Level up the Sniper Rifles skill to 5",
+            "Reward": "+16,400 EXP\r\nJaeger Rep +0.04\r\n57,000 Roubles\r\nAim Sports \"Tri-Rail\" rail for Mosin rifle\r\nTacfire pistol grip for Mosin rifle\r\nUnlocks purchase of Aim Sports \"Tri-Rail\" rail for Mosin rifle at LL2\r\nUnlocks purchase of Tacfire pistol grip for Mosin rifle at LL2"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 5",
+            "Type": "Elimination",
+            "Objective": "Kill 10 Scavs at Customs with a Mosin rifle between 23:00 and 4:00",
+            "Reward": "+20,000 EXP\r\nJaeger Rep +0.04\r\n75,000 Roubles\r\nTexas Precision Products muzzlebrake for Mosin rifle\r\nUnlocks purchase of Texas Precision Products muzzlebrake for Mosin rifle at LL3"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 6",
+            "Type": "Elimination",
+            "Objective": "Kill 10 Scav snipers with a Mosin",
+            "Reward": "+20,300 EXP\r\nJaeger Rep +0.05\r\n50,000 Roubles\r\nATI Monte Carlo Mosin rifle stock\r\nUnlocks purchase of ATI Monte Carlo Mosin rifle stock at LL3"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 7",
+            "Type": "Elimination",
+            "Objective": "Kill 7 PMC operatives with a suppressed Mosin at least 70 meters away",
+            "Reward": "+20,700 EXP\r\nJaeger Rep +0.05\r\n85,000 Roubles\r\nWitt Machine muzzlebrake for Mosin rifle\r\nUnlocks purchase of Witt Machine muzzlebrake for Mosin rifle at LL4"
+        },
+        {
+            "Person": "Jaeger",
+            "Quest": "The Tarkov shooter - Part 8",
+            "Type": "Elimination",
+            "Objective": "Kill 3 PMC operatives with a Mosin over one raid in the Woods",
+            "Reward": "+25,200 EXP\r\nJaeger Rep +0.06\r\n200,000 Roubles\r\nProMag Archangel OPFOR PRS Mosin rifle stock\r\n7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity\r\nUnlocks purchase of ProMag Archangel OPFOR PRS Mosin rifle stock at LL4\r\nUnlocks purchase of 7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity at LL4"
+        },
+        {
+            "Person": "Fence",
+            "Quest": "Collector",
+            "Type": "PickUp",
+            "Objective": "Find an Old firesteel in raid\r\nHandover the Old firesteel\r\nFind an Antique axe in raid\r\nHandover the Antique axe\r\nFind a Battered antique Book in raid\r\nHandover the Battered antique Book\r\nFind a FireKlean gun lube in raid\r\nHandover the FireKlean gun lube\r\nFind a Golden rooster in raid\r\nHandover the Golden rooster\r\nFind a Silver Badge in raid\r\nHandover the Silver Badge\r\nFind a Deadlyslob's beard oil in raid\r\nHandover the Deadlyslob's beard oil\r\nFind a Golden 1GPhone in raid\r\nHandover the Golden 1GPhone\r\nFind a Jar of DevilDog mayo in raid\r\nHandover the Jar of DevilDog mayo\r\nFind a Can of sprats in raid\r\nHandover the Can of sprats\r\nFind a Fake mustache in raid\r\nHandover the Fake mustache\r\nFind a Kotton beanie in raid\r\nHandover the Kotton beanie",
+            "Reward": "Secure container Kappa"
+        }
+    ]
+}

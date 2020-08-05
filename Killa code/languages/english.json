@@ -1,0 +1,5 @@
+{
+    "ping-roundtrip": "**Roundtrip (Discord -> Killa -> Discord)**",
+    "ping-database": "**Database Delay**",
+    "ping-footer": "Discord API errors & ratelimits could lead to high numbers for the roundtrip."
+}

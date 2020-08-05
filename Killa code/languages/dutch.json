@@ -1,0 +1,5 @@
+{
+    "ping-roundtrip": "**Retour (Discord -> Killa -> Discord)**",
+    "ping-database": "**Database Tijd**",
+    "ping-footer": "Discord API errors & ratelimits kunnen hoge ping veroorzaken voor de retour."
+}

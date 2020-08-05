@@ -1,0 +1,23 @@
+{
+  "name": "killa",
+  "version": "1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dblapi.js": "^2.3.1",
+    "discord.js": "^12.0.2",
+    "file-system": "^2.2.2",
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0",
+    "pg": "^7.18.1",
+    "sequelize": "^5.21.3",
+    "twitch-js": "^2.0.0-beta.33",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
