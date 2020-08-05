@@ -1,4 +1,4 @@
-# Killa
+# Discord bot Killa
 Escape from tarkov discord bot
 Killa#3898
 673871058708725790
